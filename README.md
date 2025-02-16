@@ -1,0 +1,1 @@
+This is a simple introduction to machine learning project where i tried to preprocess and clean a dataset and visualize it to obtain useful insights from it. The dataset that i used was the netflix movies and shows dataset that can be obtained from kaggle. The preprocessing and cleaning was done using pandas while visualization was done using seaborn.
